@@ -1,34 +1,6 @@
 # github_markdown_tutorial
 Learn to use markdown to write the README.md file.
 
-### TOC
-- [This is the first-level title](#this-is-the-first-level-title)
-- [This is the first-level title](#This is the first-level title)
-  - [This is the secondary title](#This is the secondary title)
-    - [This is the tertiary heading](#This is the tertiary heading)
-      - ...
-  
-- [Markdown tutorial](#Markdown tutorial)
-  - [1.Markdown paragraph wrap](#1.Markdown paragraph wrap)
-  - [2.Markdown font](#2.Markdown font)
-  - [3.Markdown paragraph strikethrough](#3.Markdown paragraph strikethrough)
-  - [4.Markdown paragraph underline](#4.Markdown paragraph underline)
-  - [5.Markdown paragraph footnote](#5.Markdown paragraph footnote)
-  - [6.Markdown notes](#6.Markdown notes)
-  - [7.Markdown sheet](#7.Markdown sheet)
-  - [8.Markdown add code](#8.Markdown add code)
-  - [8.Markdown add code](#8.Markdown add code)
-  - [9.Markdown formula](#9.Markdown formula)
-  - [10.Markdown ordered list](#10.Markdown ordered list)
-  - [11.Markdown ordered list](#11.Markdown ordered list)
-  - [12.Markdown task list](#12.Markdown task list)
-  - [13.Markdown add the super link](#13.Markdown add the super link)
-  - [14.Markdown add the horizontal dividing line](#14.Markdown add the horizontal dividing line)
-  - [15.Markdown qoute some texts or articles](#15.Markdown qoute some texts or articles)
-  - [16.Markdown reference qoutes](#16.Markdown reference qoutes)
-  - [17.Markdown add image](#17.Markdown add image)
-  - [18.Markdown add TOC](#18.Markdown add TOC)
-
 ### Other TOC
 - [This is the first-level title](#this-is-the-first-level-title)
   * [This is the secondary title](#this-is-the-secondary-title)
@@ -158,4 +130,5 @@ I often get something from [google][1], [baidu][2] and [github][3].
 ![hello](Landscape-Color.jpg)
 
 ### 18.Markdown add TOC
-
+We use the tool to convert markdown TOC to github TOC. Paste the markdown content into it, and the directory will be automatically generated at the beginning, but sometimes if there are special characters in the title (#, ##, ###, etc.), you need to adjust it a little~
+**[GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/)**
