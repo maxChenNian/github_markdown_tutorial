@@ -85,8 +85,8 @@ $$
 ------
 ### 15.Markdown qoute some texts or articles.
 
-> 大风起兮云飞扬。
-> 威加海内兮归故乡。
+> 大风起兮云飞扬。  
+> 威加海内兮归故乡。  
 > 安得猛士兮守四方！ ——刘邦
 
 ### 16.Markdown reference qoutes.
@@ -100,3 +100,6 @@ I often get something from [google][1], [baidu][2] and [github][3].
 
 
 ###  17.Markdown add image.
+
+![hello](Landscape-Color.jpg)
+
