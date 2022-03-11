@@ -2,15 +2,13 @@
 Learn to use markdown to write the README.md file.
 
 ### TOC
-
+- [This is the first-level title](#this-is-the-first-level-title)
 - [This is the first-level title](#This is the first-level title)
-
   - [This is the secondary title](#This is the secondary title)
     - [This is the tertiary heading](#This is the tertiary heading)
       - ...
   
 - [Markdown tutorial](#Markdown tutorial)
-
   - [1.Markdown paragraph wrap](#1.Markdown paragraph wrap)
   - [2.Markdown font](#2.Markdown font)
   - [3.Markdown paragraph strikethrough](#3.Markdown paragraph strikethrough)
